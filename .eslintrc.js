@@ -53,6 +53,7 @@ module.exports = {
       'maxBOF': 3,
       'maxEOF': 2
     }],
+    
     'handle-callback-err': 'off'
   }
 }
